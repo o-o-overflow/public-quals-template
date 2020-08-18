@@ -1,0 +1,3 @@
+# OOO DEFCON Quals Template
+
+See [TEMPLATE_README.md](TEMPLATE_README.md)
